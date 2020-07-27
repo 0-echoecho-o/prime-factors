@@ -14,4 +14,5 @@ int main (void){
    else k+=2;}
  }while(n%k==0);
  printf("prime factors of %d\n.",m);
- return 0;}
+ return 0;
+ }
